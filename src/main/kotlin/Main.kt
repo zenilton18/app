@@ -1,3 +1,7 @@
 fun main(){
-    println("lmlmlm");
+     val nome   = "zenilton"
+     val teste  = 12
+     println ("kndsklndslk  $nome $teste" )
 }
+
+git
